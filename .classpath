@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/JK_Softwares/jars/jxl-2.6.10.jar/jxl-2.6.10.jar"/>
+	<classpathentry kind="lib" path="E:/JK_Softwares/jars/jxl-2.6.10.jar/poi-3.9.jar/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="E:/JK_Softwares/jars/jxl-2.6.10.jar/poi-ooxml-3.9.jar/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="lib/xmlrpc-common-3.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/xmlrpc-client-3.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.10-src.jar"/>
+	<classpathentry kind="lib" path="lib/imageClient.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

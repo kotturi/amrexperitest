@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="none">
+  <test name="Test(failed)" parallel="none">
+    <classes>
+      <class name="com.pca.test.Appflow">
+        <methods>
+          <include name="Patient"/>
+          <include name="Disposition"/>
+          <include name="setUp"/>
+          <include name="AddPCR"/>
+          <include name="SuperlogIn"/>
+          <include name="DispatchLocation"/>
+          <include name="logIn"/>
+          <include name="DispatchIncident"/>
+          <include name="Park"/>
+          <include name="Dispatch"/>
+          <include name="newIncident"/>
+          <include name="Assessment"/>
+          <include name="Logout"/>
+          <include name="ReasonForCall"/>
+        </methods>
+      </class> <!-- com.pca.test.Appflow -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
